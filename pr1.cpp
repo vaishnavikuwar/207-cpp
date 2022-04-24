@@ -1,4 +1,4 @@
-//program to chek no prime or not
+//program to chek no prime or not.
 #include<iostream.h>
 #include<conio.h>
 class test
